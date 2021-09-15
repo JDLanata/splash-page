@@ -1,3 +1,42 @@
-body{
-    background-color: red;
+*
+{
+ font-family: "Garamond";
+ margin: 0;
+ 
+}
+
+header {
+    background-color: royalblue;
+    border: solid black;
+    
+}
+
+ul {
+    text-align: right;
+}
+
+li 
+{ 
+    display: inline;
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+p{
+    background-color: darkblue;
+    color: white;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border: solid black;
+
+}
+section{
+
+}
+footer
+{
+
 }
